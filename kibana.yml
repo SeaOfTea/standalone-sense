@@ -1,0 +1,2 @@
+kibana.enabled: false
+elasticsearch.enabled: false
